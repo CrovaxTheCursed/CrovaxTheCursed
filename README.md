@@ -1,5 +1,3 @@
-# Crovax Domain
-
 ### Projects and such, ranging from Malware Reverse Engingeering, Memory Analysis and Machine Learning.
 ### Don't expect much, as I have no clue what I'm doing. :grin:
 
